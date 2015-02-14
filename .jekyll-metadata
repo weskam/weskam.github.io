@@ -1,0 +1,39 @@
+---
+/Users/wes/weskam/_posts/2015-01-21-albion-online-post.markdown:
+  mtime: 2015-01-21 16:21:01.000000000 -05:00
+  deps:
+  - /Users/wes/weskam/_layouts/post.html
+  - /Users/wes/weskam/_includes/head.html
+  - /Users/wes/weskam/_includes/header.html
+  - /Users/wes/weskam/_includes/footer.html
+  - /Users/wes/weskam/_layouts/default.html
+/Users/wes/weskam/about.md:
+  mtime: 2015-01-13 16:10:38.000000000 -05:00
+  deps:
+  - /Users/wes/weskam/_layouts/page.html
+  - /Users/wes/weskam/_includes/head.html
+  - /Users/wes/weskam/_includes/header.html
+  - /Users/wes/weskam/_includes/footer.html
+  - /Users/wes/weskam/_layouts/default.html
+/Users/wes/weskam/feed.xml:
+  mtime: 2015-01-13 16:06:02.000000000 -05:00
+  deps: []
+/Users/wes/weskam/index.html:
+  mtime: 2015-01-13 19:23:39.000000000 -05:00
+  deps:
+  - /Users/wes/weskam/_includes/head.html
+  - /Users/wes/weskam/_includes/header.html
+  - /Users/wes/weskam/_includes/footer.html
+  - /Users/wes/weskam/_layouts/default.html
+/Users/wes/weskam/README.md:
+  mtime: 2015-01-13 16:15:42.000000000 -05:00
+  deps: []
+/Users/wes/weskam/_layouts/post.html:
+  mtime: 2015-01-13 16:06:02.000000000 -05:00
+  deps: []
+/Users/wes/weskam/_layouts/page.html:
+  mtime: 2015-01-13 16:06:02.000000000 -05:00
+  deps: []
+/Users/wes/weskam/_includes/head.html:
+  mtime: 2015-01-13 16:06:02.000000000 -05:00
+  deps: []
