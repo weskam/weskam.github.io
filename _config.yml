@@ -1,7 +1,9 @@
 # Site settings
 title: Wes Kaminer ➜ Mobile Developer
 email: weskaminer@gmail.com
-description: © 2015 Wes Kaminer. Built with href="http://jekyllrb.com/" img src="https://s3.amazonaws.com/f.cl.ly/items/3C0d0n1C2a3g0W1E2O0m/Jekyll_%28software%29_Logo.png"
+description: © 2015 Wes Kaminer. Built with 
+<a href="http://jekyllrb.com/">
+<img src="https://s3.amazonaws.com/f.cl.ly/items/3C0d0n1C2a3g0W1E2O0m/Jekyll_%28software%29_Logo.png" />
   
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://weskam.github.io" # the base hostname & protocol for your site
