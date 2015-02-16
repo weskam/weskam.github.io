@@ -41,8 +41,16 @@
   mtime: 2015-01-13 16:06:02.000000000 -05:00
   deps: []
 /Users/wes/weskam/_includes/footer.html:
-  mtime: 2015-02-15 22:54:12.000000000 -05:00
+  mtime: 2015-02-15 23:26:46.000000000 -05:00
   deps: []
 /Users/wes/weskam/_layouts/default.html:
   mtime: 2015-01-13 16:06:02.000000000 -05:00
   deps: []
+/Users/wes/weskam/_posts/2015-02-16-darkest-dungeon-post.markdown:
+  mtime: 2015-02-16 00:18:43.000000000 -05:00
+  deps:
+  - /Users/wes/weskam/_layouts/post.html
+  - /Users/wes/weskam/_includes/head.html
+  - /Users/wes/weskam/_includes/header.html
+  - /Users/wes/weskam/_includes/footer.html
+  - /Users/wes/weskam/_layouts/default.html
