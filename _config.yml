@@ -2,9 +2,7 @@
 title: Wes Kaminer ➜ Mobile Developer
 email: weskaminer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  © 2015 Wes Kaminer. Built with <a href="http://jekyllrb.com/"><img src="https://s3.amazonaws.com/f.cl.ly/items/3C0d0n1C2a3g0W1E2O0m/Jekyll_%28software%29_Logo.png" />
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://weskam.github.io" # the base hostname & protocol for your site
 twitter_username: weskaminer
