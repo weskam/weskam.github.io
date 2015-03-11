@@ -1,5 +1,5 @@
 # Personal data for blog
-transformed by Jekyll into a static site whenever I push this repo to GitHub.
+Transformed by Jekyll into a static site whenever this repo is pushed to GitHub.
 
 # License
 All post contents are © Wes Kaminer. 
