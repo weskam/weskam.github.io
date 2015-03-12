@@ -1,12 +1,32 @@
-# Site settings
-title: Wes Kaminer ➜ Mobile Developer
-email: wkaminer@me.com
-description: © 2015 Wes Kaminer.
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "weskaminer.com" # the base hostname & protocol for your site
-twitter_username: weskaminer
-github_username:  weskam
-
-# Build settings
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
 markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: ➜ Wes Kaminer
+
+description: Stylish Jekyll Theme
+author:
+  name: Wes Kaminer
+  email: contact@weskaminer.com
+  github: weskam
+  twitter: weskaminer
+  pinterest: 
+  linkedin: 
+  bio: programmer, gamer, nerd
+  email_md5: 726351295ec82e145928582f595aa3aa
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH:
