@@ -14,4 +14,7 @@ The game is described as a "Challenging gothic roguelike turn-based RPG". I will
 
 I give it a 5 out 5, and it hasn't even technically released yet.
 
+<br>
+<center>
 <a href="http://store.steampowered.com/app/262060/" target="_blank" rel="nofollow"><img src="http://i1148.photobucket.com/albums/o561/weskam/steam_icon_zpsm98zamvt.png?t=1423976871" alt="" border="0" width="10%" height="10%"></a>
+</center>
