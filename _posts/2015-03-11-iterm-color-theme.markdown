@@ -3,7 +3,7 @@ layout: post
 title:  "My Terminal Colors"
 date:   2015-03-11 01:15 PM
 categories: terminal
-tags: download
+tags: downloads
 ---
 
 <p>
