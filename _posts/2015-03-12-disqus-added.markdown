@@ -11,7 +11,7 @@ I just added <a href="https://disqus.com/" target="_blank" rel="nofollow"><font 
 
 <br>
 <!-- DISQUS SETUP -->
-<div id="disqus_thread"></div>
+<div id="disqus_thread">
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'weskaminer';
@@ -24,3 +24,4 @@ I just added <a href="https://disqus.com/" target="_blank" rel="nofollow"><font 
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</div>
