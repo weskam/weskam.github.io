@@ -4,4 +4,4 @@ Transformed by Jekyll into a static site whenever this repo is pushed to GitHub.
 # License
 All post contents are © Wes Kaminer. 
 
-Theme credit goes to ➜ dbyll by dbtek. 
+Theme credit goes to ➜ [dbyll](https://github.com/dbtek/dbyll) by dbtek. 
