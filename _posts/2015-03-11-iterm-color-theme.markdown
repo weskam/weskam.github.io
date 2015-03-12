@@ -17,19 +17,3 @@ I have been trying to find the perfect terminal (iTerm) color theme. Then it hit
 <a href="http://cl.ly/1m3F2L030F0R/download/Toasty.itermcolors" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/f.cl.ly/items/1c1n3M1x2Y0J3a0x2u1u/download.png" alt="" border="0" width="35" height="35"></a>
 </font>
 <br>
-
-<br>
-<!-- DISQUS SETUP -->
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'weskaminer';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
