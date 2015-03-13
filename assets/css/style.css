@@ -8,7 +8,8 @@ body{
 	position: fixed;
 	top: 0px;
 	padding-top: 15%;
-	background-color: #444;
+	background-image: url("https://s3.amazonaws.com/f.cl.ly/items/41320d3I401X0q0p0j2n/stardust.png");
+	/* background-color: #444; */
 	color: #fff;
 }
 
