@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: ➜ Wes Kaminer
+      title: Wes Kaminer • com
 
 description: Stylish Jekyll Theme
 author:
