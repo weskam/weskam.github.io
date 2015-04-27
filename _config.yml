@@ -1,32 +1,44 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Site settings
+title: Wes Kaminer
+email: weskaminer@gmail.com
+url: weskaminer.com
+description: ''
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-highlighter: pygments
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Wes Kaminer
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/weskaminer
+  - title: instagram
+    url: https://instagram.com/icodeyourlife/
+  - title: github
+    url: http://github.com/weskam
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/2394659/toasty
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Dallas, TX
+  - line: 
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
 markdown: kramdown
-
-
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: Wes Kaminer • com
-
-description: 
-author: 
-  name: Wes Kaminer
-  email: contact@weskaminer.com
-  github: weskam
-  twitter: weskaminer
-  pinterest: 
-  linkedin: 
-  bio: iOS developer</br>ui designer</br>nerd for life
-  email_md5: 726351295ec82e145928582f595aa3aa
-
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
-
-BASE_PATH:
+permalink: pretty
