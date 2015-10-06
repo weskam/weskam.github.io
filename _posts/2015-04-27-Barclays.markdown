@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2015 - Present
 client: Barclays
 category: iOS
-description: <p> Currently, I hold a position at <a href="http://www.barclays.com/" target="_blank" rel="nofollow">Barclays</a> as an iOS Developer in Dallas, TX. <br> </p> Projects: <br> </p> <br> (<a href="https://www.flickr.com/gp/136463048@N06/7fKax6" target="_blank" rel="nofollow">ABSA Payments</a>) <br> (<a href="https://www.flickr.com/gp/136463048@N06/7fKax6" target="_blank" rel="nofollow">ABSA Payments</a>) <br> (<a href="https://www.flickr.com/gp/136463048@N06/7fKax6" target="_blank" rel="nofollow">ABSA Payments</a>)
+description: <p> Currently, I hold a position at <a href="http://www.barclays.com/" target="_blank" rel="nofollow">Barclays</a> as an iOS Developer in Dallas, TX. <br> </p>
 
 ---
