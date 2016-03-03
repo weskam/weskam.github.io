@@ -1,2 +1,3 @@
 # Personal data for blog
-Built with HTML & CSS
+
+Template credit goes to Start Bootstrap - http://startbootstrap.com/template-overviews/creative/
