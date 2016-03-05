@@ -1,3 +1,3 @@
 # Personal data for blog
 
-Template credit goes to Start Bootstrap - http://startbootstrap.com/template-overviews/creative/
+Design credit - http://themes.3rdwavemedia.com/
