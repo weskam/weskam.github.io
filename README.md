@@ -1,3 +1,3 @@
 # Personal data for blog
 
-Design credit - http://themes.3rdwavemedia.com/
+Design credit - [HTML5 UP](https://html5up.net/)
