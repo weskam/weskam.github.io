@@ -45,6 +45,32 @@ body {
     background-color: rgba(0,0,0,0.7);
 }
 
+.btn-sketch {
+    border-radius: 50;
+    color: #fff;
+    background-color: rgba(245,124,0 ,1);
+}
+
+.btn-sketch:hover,
+.btn-sketch:focus,
+.btn-sketch:active {
+    color: #fff;
+    background-color: rgba(251,140,0 ,1);
+}
+
+.btn-invision {
+    border-radius: 50;
+    color: #fff;
+    background-color: rgba(236,64,122 ,1);
+}
+
+.btn-invision:hover,
+.btn-invision:focus,
+.btn-invision:active {
+    color: #fff;
+    background-color: rgba(240,98,146 ,1);
+}
+
 .btn-light {
     border-radius: 50;
     color: #333;
